@@ -2,7 +2,7 @@
 
 A lab to review TI 84 Plus
 
-![](./docs/ti84.png)
+![](docs/ti84_trans.png)
 
 ## Steps
 
