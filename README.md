@@ -2,6 +2,8 @@
 
 A lab to review TI 84 Plus
 
+![](./docs/ti84.png)
+
 ## Steps
 
 - [TI Connect](https://education.ti.com/en/software/search/ti-84-plus-c-silver-edition)
